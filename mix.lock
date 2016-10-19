@@ -1,0 +1,2 @@
+%{"libring": {:hex, :libring, "1.0.0"},
+  "swarm": {:hex, :swarm, "2.0.2"}}
